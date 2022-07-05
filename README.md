@@ -1,1 +1,4 @@
-# actividadGrupal
+Candela
+Leonardo
+Nelson 
+Mati
